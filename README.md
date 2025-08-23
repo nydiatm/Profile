@@ -1,7 +1,7 @@
 # Prof. Nydia Tejeda-Munoz, Cancer Researcher
 
 ### Greetings
-Hello, I'm Nydia and thank you for checking out my web profile.
+Hello, I'm Nydia.  Thank you for checking out my web profile.
 
 ### About Me
 I am a cancer cell biologist with over 13 years of experience investigating the Wnt signaling pathway, particularly in the context of colon cancer.
