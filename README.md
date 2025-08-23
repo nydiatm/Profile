@@ -5,7 +5,7 @@ Hello, I'm Nydia and thank you for checking out my web profile.
 
 ### About Me
 I am a cancer cell biologist with over 13 years of experience investigating the Wnt signaling pathway, particularly in the context of colon cancer.
-My research focuses on targeting endocytosis, macropinocytosis, and lysosomal function to develop novel therapies for Wnt-driven tumors.  By dissecting how Wnt signaling promotes tumor progression through nutrient scavenging and cellular trafficking, I aim to uncover new strategies to impair cancer cells' ability to access nutrients and gupport growth - revealing vulnerabilities that may be therapeutically exploited.
+My research focuses on targeting endocytosis, macropinocytosis, and lysosomal function to develop novel therapies for Wnt-driven tumors.  By dissecting how Wnt signaling promotes tumor progression through nutrient scavenging and cellular trafficking, I aim to uncover new strategies to impair cancer cells' ability to access nutrients and support growth - revealing vulnerabilities that may be therapeutically exploited.
 My ultimate goal is to translate these fundamental insights into actionable approaches that restore healthy cell behavior and improve patient outcomes.
 Currently, I serve as a reviewer for the NIH Cell Structure and Function 1 (CSF1) Study Section (2025), contributing to the evaluation of innovative grant proposals in cell biology.
 
