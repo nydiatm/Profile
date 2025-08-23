@@ -11,7 +11,7 @@ Currently, I serve as a reviewer for the NIH Cell Structure and Function 1 (CSF1
 
 I am seeking to transition into industry as a Field Application Scientist, where I can combine my scientific expertise with a passion for communication, collaboration, and real-world impact.
 
-### Employments
+### Employment
 - Assistant Professor in the Oncology Department at Oklahoma University Health Sciences Center since June 2023 to present time.
 - Postdoctoral Fellowship, University of California in Los Angeles, October 2016 - June 2023.
 
@@ -28,7 +28,7 @@ nydia.tejeda@gmail.com
 ### Linkedin Website
 [My Linkedin page](https://linkedin.com/in/nydia-tejeda-80a36aa0/?locale=en_US)
 
-### Educations
+### Education
 - National Autonomous University of Mexico (UNAM), Ph.D. Biological and Biomedical Sciences, 2011-2016.
 - Universidad del Pais Vasco/Euskal Herriko Uniberstsitatea, Spain, Masters Molecular Biology and Biomedicine, 2009-2010.
 - Autonomous University of Puebla, Mexico (BUAP), B.S. Biomedicine, 2008.
