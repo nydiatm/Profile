@@ -25,6 +25,9 @@ I am seeking to transition into industry as a Field Application Scientist, where
 ### Email
 nydia.tejeda@gmail.com
 
+### Linkedin Website
+[My Linkedin page](https://linkedin.com/in/nydia-tejeda-80a36aa0/?locale=en_US)
+
 ### Educations
 - National Autonomous University of Mexico (UNAM), Ph.D. Biological and Biomedical Sciences, 2011-2016.
 - Universidad del Pais Vasco/Euskal Herriko Uniberstsitatea, Spain, Masters Molecular Biology and Biomedicine, 2009-2010.
@@ -33,6 +36,10 @@ nydia.tejeda@gmail.com
 ### List of Publications
 I have about 30 publications related to my research in cancer.  For complete lists, please see my Google Scholar page here: 
 [My Google Scholar page](https://scholar.google.com/citations?user=4i_0gqoAAAAJ&hl=en)
+
+### My Current Work
+Here is a link to my profile at Oklahoma University where I currently do my research:
+[My OU profile website](https://medicine.ouhsc.edu/directory/details/nydia-tejeda-munoz-phd)
 
 ### Honors & Awards
 - National System of Researchers SNI Level 1, issued by CONACYT, September 2020.
