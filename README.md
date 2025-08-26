@@ -1,4 +1,4 @@
-# Prof. Nydia Tejeda-Munoz, Cancer Researcher
+# Prof. Nydia Tejeda-Munoz
 
 ### Greetings
 Hello, I'm Nydia.  Thank you for checking out my web profile.
