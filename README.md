@@ -1,5 +1,5 @@
-# Prof. Nydia Tejeda-Munoz
-Cancer Researcher
+# Nydia Tejeda-Munoz, PhD
+Assistant Professor, Cancer Researcher
 
 ### Greetings
 Hello, I'm Nydia.  Thank you for checking out my web profile.
